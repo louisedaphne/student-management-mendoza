@@ -1,0 +1,24 @@
+{
+  "name": "student-management-mendoza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisedaphne/student-management-mendoza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/louisedaphne/student-management-mendoza/issues"
+  },
+  "homepage": "https://github.com/louisedaphne/student-management-mendoza#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
